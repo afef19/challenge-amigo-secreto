@@ -1,14 +1,13 @@
 # Challenge Amigo Secreto
 
-Bienvenido al **Challenge Amigo Secreto**, un proyecto práctico para poner en acción conocimientos de JavaScript
-Proyecto para gestionar una lista de amigos y sortear un amigo secreto de forma automática.
+Bienvenido al **Challenge Amigo Secreto**, un proyecto práctico para poner en acción conocimientos de JavaScript gestionando una lista de amigos y sortear un amigo secreto.
 
-# Tecnologias
+### Tecnologias
 - HTML
 - CSS
 - **JavaScript**
 
-# Funcionalidades 
+### Funcionalidades 
 - Agregar amigos a una lista
 - Generar sorteo aleatorio
 - Mostar resultados
