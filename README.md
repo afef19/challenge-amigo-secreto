@@ -3,9 +3,9 @@
 Bienvenido al **Challenge Amigo Secreto**, un proyecto práctico para poner en acción conocimientos de JavaScript gestionando una lista de amigos y sortear un amigo secreto.
 
 ### Tecnologias
--**JavaScript**
--HTML
--CSS
+- **JavaScript**
+- HTML
+- CSS
   
 
 ### Funcionalidades 
