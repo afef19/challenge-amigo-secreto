@@ -4,8 +4,8 @@ Bienvenido al **Challenge Amigo Secreto**, un proyecto práctico para poner en a
 
 ### Tecnologias
 -**JavaScript**
-- HTML
-- CSS
+-HTML
+-CSS
   
 
 ### Funcionalidades 
