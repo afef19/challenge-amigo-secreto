@@ -13,4 +13,4 @@ Bienvenido al **Challenge Amigo Secreto**, un proyecto práctico para poner en a
 - Mostar resultados
 
 ## Autor
-Andrés Escobar
+Andres Escobar
