@@ -3,8 +3,6 @@
 
 let listaNombres = [];
 
-
-
 function agregarAmigo(){
     let amigoEscrito = document.getElementById('amigo').value;      
     
